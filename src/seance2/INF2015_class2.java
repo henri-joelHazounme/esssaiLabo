@@ -13,9 +13,8 @@ public class INF2015_class2 {
     
     
     public static void main (String [] argv){
-         System.out.println("salut");
-         Mystere mys = new Mystere();
-         mys.methodeMystere();
+         System.out.println("hello world");
+        
     }
     
 }
